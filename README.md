@@ -8,3 +8,9 @@ In EfficientNet, the authors propose a new Scaling method called Compound Scalin
 
 the paper proposes that if we scale the dimensions by a fixed amount at the same time and do so uniformly, we achieve much better performance
 
+
+![alt text](https://github.com/achuthasubhash/5-archieture-for-imageclassification/blob/master/Capture.JPG)
+
+
+![alt text](https://github.com/achuthasubhash/5-archieture-for-imageclassification/blob/master/Capture2.JPG)
+
